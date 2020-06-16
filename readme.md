@@ -5,7 +5,7 @@ Du skal lave et login flow som består af i alt fire skærmbilleder.
 * Et "splash screen" som viser muligheden for at logge ind eller registrere sig som bruger
 * En formular til at logge ind med
 * En formular til at registrere sig som bruger med
-* Forsiden på applikationen når brugeren er logget ind.
+* Forsiden på applikationen når brugeren er logget ind. (Du finder selv på indhold til denne - følg gerne den visuelle stil).
 
 ### Beskrivelse af funktionalitet:
 Hvis brugeren er logget ind vises forsiden på applikationen.
